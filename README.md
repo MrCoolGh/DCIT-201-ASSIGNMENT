@@ -42,13 +42,6 @@ Write a Java program that converts temperatures between Celsius and Fahrenheit. 
 2. Submit the `.java` file to the assignment portal before the deadline.
 3. Ensure your program compiles and runs without errors.
 
----
-
-## Grading Criteria
-- Correctness of logic (40%)
-- Input validation (20%)
-- Code readability and comments (20%)
-- Output formatting and user experience (20%)
 
 Good luck, and happy coding
 
