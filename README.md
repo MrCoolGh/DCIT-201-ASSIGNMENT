@@ -50,5 +50,5 @@ Write a Java program that converts temperatures between Celsius and Fahrenheit. 
 - Code readability and comments (20%)
 - Output formatting and user experience (20%)
 
-Good luck, and happy coding - Joe! 🚀
+Good luck, and happy coding
 
